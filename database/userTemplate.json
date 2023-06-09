@@ -1,0 +1,25 @@
+{
+    "details": {
+        "cityName": "",
+        "cityNumber": "",
+        "steamName": "",
+        "discordTag": "",
+        "discordID": ""
+    },
+    "user_is_staff": false,
+    "clocked_status": {
+        "status": false,
+        "clocked_on": "",
+        "clocked_on_preview": "",
+        "clocked_on_log_messageID": "",
+        "dept": ""
+    },
+    "time_log": {
+        "recorded-time": 0
+    },
+    "timeWarn": 0,
+    "prior_months": {
+
+    }
+    
+}

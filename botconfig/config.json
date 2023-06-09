@@ -1,0 +1,19 @@
+{
+  	"token": "",
+  	"console_tag": "Time Logger",
+  	"bot_status": "Recording Duty Time",
+  	"prefix": "?",
+  	"loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  	"slashCommandsDirs": [
+		{
+			"Folder": "Force",
+			"CmdName": "force",
+			"CmdDescription": "Forces people on/off"
+		},
+		{
+			"Folder": "Time",
+			"CmdName": "time",
+			"CmdDescription": "Add/Remove times to other people"
+		}
+  	]
+}
